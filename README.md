@@ -62,6 +62,7 @@ Developed by:OBELESH R RegisterNumber: 24901123
 ![Screenshot 2025-01-03 180825](https://github.com/user-attachments/assets/33d5685e-5eeb-4627-a55c-efa0a7d94e8e)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+
 ![Screenshot 2025-01-03 180843](https://github.com/user-attachments/assets/fffcd5ed-7dc7-41f9-855c-acd55ac645b7)
 
 **RESULTS**
